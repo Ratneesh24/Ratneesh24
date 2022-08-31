@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ratneesh24
-- 👀 I’m interested in Competitive Programming and Web Development.
-- 🌱 I’m currently learning DSA .
+- 👀 I’m interested in BlockChain Development and Competitive Programming.
+- 🌱 I’m currently learning BlockChain Development .
 - 📫 reach me at ratneesh24@gmail.com
 
 <!---
