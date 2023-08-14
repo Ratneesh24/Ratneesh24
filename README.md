@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ratneesh24
-- 👀 I’m interested in BlockChain Development and Competitive Programming.
-- 🌱 I’m currently learning BlockChain Development .
+- 👀 I’m interested in Data Analytics, BlockChain Development and Competitive Programming.
+- 🌱 I’m currently learning about Data Analytics
 - 📫 reach me at ratneesh24@gmail.com
 
 <!---
