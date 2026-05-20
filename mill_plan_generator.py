@@ -583,7 +583,7 @@ def generate_daily_plan(wip_file: str, plan_date: date, output_file: str,
 
     wb.save(output_file)
     print(f"\nWritten: {output_file}")
-
+    return output_file
 
 # ---------------------------------------------------------------------------
 # CLI
