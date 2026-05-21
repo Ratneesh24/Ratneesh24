@@ -19,7 +19,7 @@ from openpyxl.worksheet.worksheet import Worksheet
 WIP_FILE = "/content/Narrow Data_Coil Stage.xlsx"
 PLAN_DATE = "2026-05-21"
 OUTPUT_FILE = "/content/mill_plan_output.xlsx"
-DAYS = 3
+DAYS = 1
 
 
 # ---------------------------------------------------------------------------
